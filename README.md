@@ -1,1 +1,1 @@
-# Basic_Data_Science_Projects
+# Basic Data Science Projects
