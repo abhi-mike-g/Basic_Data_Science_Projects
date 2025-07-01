@@ -1,1 +1,4 @@
 # Basic Data Science Projects
+This repository has been made to store, as the name of the repo suggests, very basic Data Science projects that help an individual understand and get a feel for the world of data science as they learn. More complex material, such as capstone projects, industry relevant works etc. all have their own dedicated repositories available. However, using those repositories for reference is strongly discouraged as beginners in this field generally might not have the necessary knowledge and skills to understand and implement projects of those level, and by the time one should be able to understand those projects without needing any sort of reference. 
+
+Here, I explain all novice level project and try to give the reader a comprehensive understanding of not only the project that has been implemented, but also of the related tools and technologies that was used to build the project
